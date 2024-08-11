@@ -54,7 +54,7 @@ let addTwoNumbers = function (l1Arr, l2Arr) {
   return result.next;
 };
 
-addTwoNumbers((l1 = [2, 4, 3]), (l2 = [5, 6, 4]));
+console.log(addTwoNumbers((l1 = [2, 4, 3]), (l2 = [5, 6, 4])));
 
 // LeetCode Solution
 // var addTwoNumbers = function (l1, l2) {
